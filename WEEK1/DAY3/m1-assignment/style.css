@@ -32,4 +32,5 @@ footer {
     display: block;
     float: none;
     margin: 10px;
+    clear: both;
   }
